@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Addan Noor! 👋
 
-<!--
-**adannoorabbasi08-alt/adannoorabbasi08-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Computer Science Student**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a beginner programmer exploring the world of computer science and software development.
+
+### 💻 What I'm Learning
+- C++
+- Object-Oriented Programming (OOP)
+- Programming Fundamentals
+- Problem Solving
+
+### 🌱 My Goals
+- Improve my programming skills.
+- Build practical coding projects.
+- Learn new technologies.
+- Develop a professional portfolio.
+
+### 📂 My Projects
+Here, I'll share my university assignments, coding practice, and personal projects.
+
+### ✨ About Me
+I believe in learning, practicing, and improving every day.
+
+Thanks for visiting my profile!
